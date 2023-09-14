@@ -400,7 +400,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 201029098}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.7965717, y: 4.4956493, z: 3.7847748}
+  m_LocalPosition: {x: 5.13, y: 4.4956493, z: 3.7847748}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -418,8 +418,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -549,7 +549,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 226601511}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.483427, y: 4.4956493, z: 3.0347748}
+  m_LocalPosition: {x: -3.483427, y: 4.4956493, z: 2.16}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -567,8 +567,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -1476,7 +1476,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 506950155}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.6734276, y: 4.4956493, z: 3.7847748}
+  m_LocalPosition: {x: -2.09, y: 4.4956493, z: 3.7847748}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -1494,8 +1494,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -2208,8 +2208,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -3010,7 +3010,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1082025460}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.6265736, y: 4.4956493, z: 3.1147747}
+  m_LocalPosition: {x: 6.6265736, y: 4.4956493, z: 2.36}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -3028,8 +3028,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -3730,7 +3730,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: bd522f28bf8d42d41960365154a4d210, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4337,7 +4337,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: bd522f28bf8d42d41960365154a4d210, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4518,7 +4518,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1500300847}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.2234278, y: 4.4956493, z: -6.215225}
+  m_LocalPosition: {x: -1.78, y: 4.4956493, z: -6.215225}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -4536,8 +4536,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -4871,7 +4871,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: bd522f28bf8d42d41960365154a4d210, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5165,7 +5165,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+      objectReference: {fileID: 2100000, guid: 2e7badceccd0b9541916697f19934459, type: 2}
     - target: {fileID: 4076691802642907088, guid: 3d9c5b0a4391b0444a9d12147f342f5a,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -5229,7 +5229,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: 2e7badceccd0b9541916697f19934459, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5297,7 +5297,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1719053748}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.6265736, y: 4.4956493, z: -5.5652246}
+  m_LocalPosition: {x: 6.6265736, y: 4.4956493, z: -4.89}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -5315,8 +5315,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -5510,7 +5510,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1757013464}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.9465733, y: 4.4956493, z: -6.215225}
+  m_LocalPosition: {x: 5.28, y: 4.4956493, z: -6.215225}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1345547012}
@@ -5528,8 +5528,8 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.69976777, b: 0.4669811, a: 1}
-  m_Intensity: 5.17
-  m_Range: 10
+  m_Intensity: 1
+  m_Range: 12.15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -5823,7 +5823,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: 2e7badceccd0b9541916697f19934459, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5916,7 +5916,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: 2e7badceccd0b9541916697f19934459, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6172,7 +6172,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: bb50bec3d8660bc43ae9a11c5938f7b8, type: 2}
+  - {fileID: 2100000, guid: bd522f28bf8d42d41960365154a4d210, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
