@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Weapon
+  - Enemy
+  - Dagger
   layers:
   - Default
   - TransparentFX
