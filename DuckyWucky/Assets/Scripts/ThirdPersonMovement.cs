@@ -31,4 +31,7 @@ public class ThirdPersonMovement : MonoBehaviour
             controller.Move(moveDir.normalized * speed * Time.deltaTime);
         }    
     }
+
+    //Gravity needs to be applied, but only while the character is airborne. Have a seperate variable that tracks the current vertical speed, then set it equal to 0 or gravity depending on if it is or
+    //is not grounded. The just constantly plug in the vertical speed into the moveDir. Bonus points if gravity gets stronger, the longer the player isn't grounded.
 }
